@@ -15,7 +15,7 @@
 </script>
 
 <main>
-  <h1 class="hero">Travel Packing Checklist</h1>
+  <h1 class="hero">Trvel Packing Checklist</h1>
   <svelte:component
     this={component}
     on:login={() => page.show("/checklist")}
