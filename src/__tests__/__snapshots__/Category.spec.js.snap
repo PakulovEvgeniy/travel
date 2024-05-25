@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Category should match snapshot 1`] = `
+<div>
+  <section
+    class="svelte-1l54f42"
+  >
+    <h3
+      class="svelte-1l54f42"
+    >
+      <span>
+        Clothes
+      </span>
+       
+      <span
+        class="status svelte-1l54f42"
+      >
+        1 of 2 remaining
+      </span>
+       
+      <button
+        class="icon svelte-1l54f42"
+      >
+        🗑
+      </button>
+    </h3>
+     
+    <form>
+      <label>
+        New Item
+      
+        <input
+          class="svelte-1l54f42"
+          data-testid="item-input"
+        />
+      </label>
+       
+      <button
+        class="svelte-1l54f42"
+        disabled=""
+      >
+        Add Item
+      </button>
+    </form>
+     
+    <ul
+      class="svelte-1l54f42"
+    >
+      <div>
+        <li
+          class="svelte-1z0157c"
+        >
+          <input
+            class="svelte-1z0157c"
+            type="checkbox"
+          />
+           
+          <span
+            class="packed-false svelte-1z0157c"
+            draggable="true"
+          >
+            shoes
+          </span>
+           
+          <button
+            class="icon svelte-1z0157c"
+            data-testid="delete"
+          >
+            🗑
+          </button>
+        </li>
+         
+      </div>
+      <div>
+        <li
+          class="svelte-1z0157c"
+        >
+          <input
+            class="svelte-1z0157c"
+            type="checkbox"
+          />
+           
+          <span
+            class="packed-true svelte-1z0157c"
+            draggable="true"
+          >
+            socks
+          </span>
+           
+          <button
+            class="icon svelte-1z0157c"
+            data-testid="delete"
+          >
+            🗑
+          </button>
+        </li>
+         
+      </div>
+    </ul>
+     
+    <dialog
+      class=" svelte-1wg7twq"
+    >
+      <header
+        class="svelte-1wg7twq"
+      >
+         
+        <div
+          class="title svelte-1wg7twq"
+        >
+          Category
+        </div>
+         
+        <button
+          class="close-btn svelte-1wg7twq"
+        >
+          ✖
+        </button>
+      </header>
+       
+      <main
+        class="svelte-1wg7twq"
+      >
+        <div>
+          
+        </div>
+      </main>
+    </dialog>
+  </section>
+</div>
+`;
